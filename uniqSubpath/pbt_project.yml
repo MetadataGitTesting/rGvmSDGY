@@ -1,6 +1,6 @@
 name: sandie.legros
 description: Robust
-version: 0.0.1
+version: '1.0'
 author: kvogysfs.beymkiod@dfkssqik.com
 language: sql
 buildSystem: ''
